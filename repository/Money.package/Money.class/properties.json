@@ -4,7 +4,10 @@
 	"category" : "Money",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"Currency",
+		"Separator"
+	],
 	"instvars" : [
 		"amount",
 		"currency"
