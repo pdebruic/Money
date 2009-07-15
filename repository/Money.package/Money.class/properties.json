@@ -4,13 +4,12 @@
 	"category" : "Money",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [
-		"Currency",
-		"Separator"
-	],
+	"classvars" : [ ],
 	"instvars" : [
 		"amount",
-		"currency"
+		"currency",
+		"separator",
+		"decimal"
 	],
 	"name" : "Money",
 	"type" : "normal"
