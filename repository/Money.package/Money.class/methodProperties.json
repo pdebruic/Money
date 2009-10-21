@@ -1,12 +1,12 @@
 {
 	"instance" : {
-		"-" : "avi 7/6/2005 17:02",
+		"-" : "PaulDeBruicker 10/20/2009 17:40",
 		"adaptToNumber:andSend:" : "avi 7/14/2005 12:45",
 		"nearestCent" : "avi 9/4/2005 15:13",
 		"readFrom:" : "jmck 7/16/2009 18:06",
 		"amount" : "avi 6/24/2005 01:00",
 		"acceptRoeVisitor:" : "jmck 7/16/2009 17:16",
-		"+" : "jmck 7/15/2009 13:41",
+		"+" : "PaulDeBruicker 10/20/2009 17:41",
 		"amountString" : "avi 9/4/2005 15:20",
 		"isSingleCurrency" : "avi 6/24/2005 02:08",
 		"<" : "avi 6/24/2005 16:26",
@@ -17,18 +17,20 @@
 		"normalizeAmount:" : "ac 10/30/2005 20:10",
 		"decimal" : "jmck 7/14/2009 21:53",
 		"hash" : "avi 6/24/2005 02:04",
-		"*" : "avi 6/24/2005 01:56",
-		"\\\\" : "ac 9/8/2005 16:09",
+		"*" : "PaulDeBruicker 10/20/2009 17:40",
+		"\\\\" : "PaulDeBruicker 10/20/2009 17:40",
 		"errorNotMoney" : "avi 6/24/2005 01:55",
 		"printSeparated:on:" : "jmck 7/14/2009 10:14",
 		"=" : "avi 7/14/2005 12:29",
 		"isNumber" : "avi 1/2/2006 15:52",
-		"/" : "avi 7/14/2005 12:40",
+		"/" : "PaulDeBruicker 10/20/2009 17:41",
 		"printOn:" : "jmck 7/14/2009 21:09",
 		"setAmount:currency:" : "avi 6/24/2005 15:06"
 	},
 	"class" : {
 		"amount:currency:" : "avi 6/24/2005 15:05",
-		"readFrom:" : "jmck 7/13/2009 22:21"
+		"amount:currencyCode:" : "PaulDeBruicker 10/20/2009 17:39",
+		"readFrom:" : "jmck 7/13/2009 22:21",
+		"amount:currencySymbol:" : "PaulDeBruicker 10/20/2009 17:39"
 	}
 }
