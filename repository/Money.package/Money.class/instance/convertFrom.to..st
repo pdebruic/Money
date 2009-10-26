@@ -5,8 +5,12 @@ convertFrom: aMoney to: aCurrencyCode
 ((Currency CurrenciesUpdated + self currencyRefreshPeriod) < DateAndTime now) ifTrue:[Currency new setConvertableCurrenciesAndRates.] 
 
 ifFalse:[
-	from := Currency ConvertableCurrencies at: aMoney currency ifAbsent:[0].
-	to := Currency ConvertableCurrencies at: aCurrencyCode ifAbsent:[0].
+	from := Currency ConvertableCurrencies at: aMoney currency ifAbsent:[false].
+	to := Currency ConvertableCurrencies at: aCurrencyCode ifAbsent:[false].
+
+	from ifFalse: [^aMoney].
+	to ifFalse: [^aMoney].	
+		
 	rate := to/from.
 
 	^Money amount: (rate * aMoney amount) currencyCode: aCurrencyCode ].
