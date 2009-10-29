@@ -6,13 +6,15 @@
 	"pools" : [ ],
 	"classvars" : [
 		"ConvertableCurrencies",
+		"ConvertableCurrencyNames",
 		"CurrenciesUpdated"
 	],
 	"instvars" : [
 		"currency",
 		"symbol",
 		"country",
-		"currencyName"
+		"currencyName",
+		"isConvertable"
 	],
 	"name" : "Currency",
 	"type" : "normal"
