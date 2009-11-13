@@ -1,3 +1,0 @@
-as yet unclassified
-ConvertableCurrencyNames: anOrderedCollection
-	ConvertableCurrencyNames:=anOrderedCollection 

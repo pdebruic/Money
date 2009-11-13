@@ -2,7 +2,12 @@
 	"commentStamp" : "PaulDeBruicker 10/23/2009 14:37",
 	"super" : "Object",
 	"category" : "Money",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"convertableCurrencies",
+		"convertableCurrencyNames",
+		"currenciesUpdated",
+		"currencies"
+	],
 	"pools" : [ ],
 	"classvars" : [
 		"ConvertableCurrencies",
