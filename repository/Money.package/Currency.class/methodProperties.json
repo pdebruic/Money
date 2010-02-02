@@ -1,0 +1,32 @@
+{
+	"instance" : {
+		"currency:" : "PaulDeBruicker 10/21/2009 14:16",
+		"symbol" : "PaulDeBruicker 10/21/2009 14:16",
+		"setConvertableCurrencyNames" : "PaulDeBruicker 10/29/2009 13:52",
+		"currency" : "PaulDeBruicker 10/21/2009 14:16",
+		"isConvertable" : "PaulDeBruicker 10/28/2009 13:51",
+		"symbol:" : "PaulDeBruicker 10/21/2009 14:16",
+		"setConvertableCurrenciesAndRates" : "PaulDeBruicker 2/1/2010 21:38",
+		"country" : "PaulDeBruicker 10/21/2009 14:16",
+		"currencyName" : "PaulDeBruicker 10/21/2009 14:16",
+		"country:" : "PaulDeBruicker 10/21/2009 14:16",
+		"isConvertable:" : "PaulDeBruicker 10/28/2009 13:51",
+		"currencyName:" : "PaulDeBruicker 10/21/2009 14:16"
+	},
+	"class" : {
+		"convertableCurrencies:" : "PaulDeBruicker 10/29/2009 11:40",
+		"CurrenciesAtoF" : "PaulDeBruicker 10/29/2009 13:52",
+		"CurrenciesUpdated:" : "PaulDeBruicker 10/23/2009 14:34",
+		"convertableCurrencyNames" : "PaulDeBruicker 10/29/2009 11:40",
+		"CurrenciesTtoZ" : "PaulDeBruicker 10/29/2009 14:04",
+		"CurrenciesUpdated" : "PaulDeBruicker 10/23/2009 14:35",
+		"currencies" : "PaulDeBruicker 10/29/2009 11:42",
+		"CurrenciesGtoM" : "PaulDeBruicker 10/29/2009 13:48",
+		"convertableCurrencies" : "PaulDeBruicker 10/29/2009 11:40",
+		"currenciesUpdated" : "PaulDeBruicker 10/29/2009 11:40",
+		"currencies:" : "PaulDeBruicker 10/29/2009 12:50",
+		"CurrenciesNtoS" : "PaulDeBruicker 10/29/2009 13:48",
+		"convertableCurrencyNames:" : "PaulDeBruicker 10/29/2009 11:40",
+		"currenciesUpdated:" : "PaulDeBruicker 10/29/2009 11:40"
+	}
+}
