@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Magnitude",
+	"category" : "Money",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"amount",
+		"currency",
+		"symbol",
+		"country",
+		"currencyName",
+		"separator",
+		"decimal",
+		"currencyRefreshPeriod"
+	],
+	"name" : "Money",
+	"type" : "normal"
+}
