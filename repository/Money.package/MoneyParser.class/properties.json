@@ -1,16 +1,18 @@
 {
 	"commentStamp" : "",
-	"super" : "Magnitude",
+	"super" : "PPCompositeParser",
 	"category" : "Money",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"number",
+		"thousands",
+		"cents",
 		"amount",
 		"currency",
-		"separator",
-		"decimal"
+		"dollars"
 	],
-	"name" : "Money",
+	"name" : "MoneyParser",
 	"type" : "normal"
 }
