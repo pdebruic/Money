@@ -4,7 +4,9 @@
 	"category" : "Money",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"Instance"
+	],
 	"instvars" : [
 		"number",
 		"thousands",

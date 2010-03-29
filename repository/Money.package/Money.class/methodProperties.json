@@ -3,7 +3,7 @@
 		"-" : "avi 7/6/2005 17:02",
 		"adaptToNumber:andSend:" : "avi 7/14/2005 12:45",
 		"nearestCent" : "avi 9/4/2005 15:13",
-		"readFrom:" : "JohnMcKeon 3/6/2010 13:19",
+		"readFrom:" : "JohnMcKeon 3/29/2010 18:12",
 		"amount" : "avi 6/24/2005 01:00",
 		"acceptRoeVisitor:" : "jmck 7/16/2009 17:16",
 		"acceptMagritte:" : "JohnMcKeon 3/6/2010 12:23",
@@ -30,6 +30,6 @@
 	},
 	"class" : {
 		"amount:currency:" : "avi 6/24/2005 15:05",
-		"readFrom:" : "jmck 7/13/2009 22:21"
+		"readFrom:" : "JohnMcKeon 3/29/2010 18:13"
 	}
 }
