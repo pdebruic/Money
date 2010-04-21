@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "PaulDeBruicker 10/23/2009 14:37",
+	"super" : "Object",
+	"category" : "Money",
+	"classinstvars" : [
+		"convertableCurrencies",
+		"convertableCurrencyNames",
+		"currenciesUpdated",
+		"currencies"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"ConvertableCurrencies",
+		"ConvertableCurrencyNames",
+		"CurrenciesUpdated"
+	],
+	"instvars" : [
+		"currency",
+		"symbol",
+		"country",
+		"currencyName",
+		"isConvertable"
+	],
+	"name" : "Currency",
+	"type" : "normal"
+}
