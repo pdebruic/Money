@@ -19,7 +19,7 @@
 		"symbol",
 		"country",
 		"currencyName",
-		"isConvertable"
+		"conversionRateToUSD"
 	],
 	"name" : "Currency",
 	"type" : "normal"
