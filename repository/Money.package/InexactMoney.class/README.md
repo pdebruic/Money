@@ -1,0 +1,1 @@
+InexactMoney is exactly like ConvertableMoney but is uses floats for math rather than fractions.
