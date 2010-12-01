@@ -3,7 +3,7 @@
 		"-" : "PaulDeBruicker 4/28/2010 10:07",
 		"adaptToNumber:andSend:" : "avi 7/14/2005 12:45",
 		"nearestCent" : "avi 9/4/2005 15:13",
-		"readFrom:" : "PaulDeBruicker 12/1/2010 18:02",
+		"readFrom:" : "PaulDeBruicker 12/1/2010 18:43",
 		"amount" : "avi 6/24/2005 01:00",
 		"acceptRoeVisitor:" : "jmck 7/16/2009 17:16",
 		"acceptMagritte:" : "PaulDeBruicker 4/28/2010 09:56",
@@ -23,7 +23,7 @@
 		"\\\\" : "PaulDeBruicker 4/28/2010 10:07",
 		"errorNotMoney" : "avi 6/24/2005 01:55",
 		"printSeparated:on:" : "PaulDeBruicker 4/28/2010 09:58",
-		"=" : "avi 7/14/2005 12:29",
+		"=" : "PaulDeBruicker 12/1/2010 18:39",
 		"/" : "PaulDeBruicker 4/28/2010 10:07",
 		"currency:" : "PaulDeBruicker 10/21/2009 14:09",
 		"isNumber" : "avi 1/2/2006 15:52",
@@ -32,6 +32,7 @@
 	},
 	"class" : {
 		"amount:currency:" : "PaulDeBruicker 5/3/2010 15:50",
+		"amount:currencyCode:" : "PaulDeBruicker 12/1/2010 18:39",
 		"readFrom:" : "jmck 7/13/2009 22:21",
 		"zeroMoney" : "PaulDeBruicker 5/3/2010 14:08"
 	}

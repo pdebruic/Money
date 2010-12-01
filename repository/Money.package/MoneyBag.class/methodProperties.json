@@ -2,16 +2,16 @@
 	"instance" : {
 		"isSingleCurrency" : "avi 6/24/2005 02:10",
 		"isMoney" : "avi 6/24/2005 02:09",
-		"/" : "avi 7/14/2005 12:44",
+		"/" : "PaulDeBruicker 12/1/2010 18:40",
 		"add:" : "avi 6/24/2005 02:18",
 		"=" : "avi 6/24/2005 02:16",
-		"initialize" : "avi 6/24/2005 02:21",
+		"initialize" : "PaulDeBruicker 12/1/2010 18:40",
 		"asSingleCurrencyValues" : "avi 6/24/2005 02:23",
 		"moneyForCurrency:" : "PaulDeBruicker 10/20/2009 17:42",
 		"+" : "avi 6/24/2005 02:18",
 		"printOn:" : "avi 6/24/2005 15:11",
 		"hash" : "avi 6/24/2005 02:16",
-		"-" : "avi 6/24/2005 02:23",
+		"-" : "PaulDeBruicker 12/1/2010 18:40",
 		"*" : "avi 7/14/2005 12:43"
 	},
 	"class" : { }
