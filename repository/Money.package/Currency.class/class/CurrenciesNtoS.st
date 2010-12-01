@@ -1,7 +1,7 @@
 as yet unclassified
 CurrenciesNtoS
 	|tmp|
-	tmp := OrderedCollection  new.
+"	tmp := OrderedCollection  new.
 	tmp add: (self new country: 'Nagorno-Karabakh'; currencyName: 'Armenian dram'; symbol: 'դր.'; currency: 'AMD').
 tmp add: (self new country: 'Namibia'; currencyName: 'Namibian dollar'; symbol: '$'; currency: 'NAD').
 tmp add: (self new country: 'Nauru'; currencyName: 'Australian dollar'; symbol: '$'; currency: 'AUD').
@@ -63,4 +63,4 @@ tmp add: (self new country: 'Sweden'; currencyName: 'Swedish krona'; symbol: 'kr
 tmp add: (self new country: 'Switzerland'; currencyName: 'Swiss franc'; symbol: 'Fr'; currency: 'CHF').
 tmp add: (self new country: 'Syria'; currencyName: 'Syrian pound'; symbol: '£ or ل.س'; currency: 'SYP').
 
-^tmp.
+^tmp."

@@ -1,7 +1,7 @@
 as yet unclassified
 CurrenciesTtoZ
 	|tmp|
-	tmp := OrderedCollection  new.
+"	tmp := OrderedCollection  new.
 	tmp add: (self new country: 'Taiwan (Republic of China)'; currencyName: 'New Taiwan dollar'; symbol: '$'; currency: 'TWD').
 tmp add: (self new country: 'Tajikistan'; currencyName: 'Tajikistani somoni'; symbol: 'ЅМ'; currency: 'TJS').
 tmp add: (self new country: 'Tanzania'; currencyName: 'Tanzanian shilling'; symbol: 'Sh'; currency: 'TZS').
@@ -31,4 +31,4 @@ tmp add: (self new country: 'Western Sahara'; currencyName: 'Moroccan dirham'; s
 tmp add: (self new country: 'Yemen'; currencyName: 'Yemeni rial'; symbol: '﷼'; currency: 'YER').
 tmp add: (self new country: 'Zambia'; currencyName: 'Zambian kwacha'; symbol: 'ZK'; currency: 'ZMK').
 tmp add: (self new country: 'Zimbabwe'; currencyName: 'Zimbabwean dollar'; symbol: '$'; currency: 'ZWR').
-^tmp.
+^tmp."

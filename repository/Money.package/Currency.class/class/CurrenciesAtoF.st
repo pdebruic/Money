@@ -1,7 +1,7 @@
 as yet unclassified
 CurrenciesAtoF
 	|tmp|
-	tmp := OrderedCollection  new.
+"	tmp := OrderedCollection  new.
 tmp add: (self new country: 'Abkhazia'; currencyName: 'Georgian lari'; symbol: 'ლ'; currency: 'GEL').
 tmp add: (self new country: 'Afghanistan'; currencyName: 'Afghan afghani'; symbol: '؋'; currency: 'AFN').
 tmp add: (self new country: 'Akrotiri and Dhekelia'; currencyName: 'Euro'; symbol: '€'; currency: 'EUR').
@@ -80,4 +80,4 @@ tmp add: (self new country: 'Finland'; currencyName: 'Euro'; symbol: '€'; curr
 tmp add: (self new country: 'France'; currencyName: 'Euro'; symbol: '€'; currency: 'EUR').
 tmp add: (self new country: 'French Polynesia'; currencyName: 'CFP franc'; symbol: 'Fr'; currency: 'XPF').
 
-^tmp. 	
+^tmp. 	"
