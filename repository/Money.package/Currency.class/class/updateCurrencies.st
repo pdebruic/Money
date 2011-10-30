@@ -1,5 +1,0 @@
-accessing
-updateCurrencies
-self initializeCurrencies;
-	setConvertableCurrenciesAndRates;
-	setConvertableCurrencyNames.
