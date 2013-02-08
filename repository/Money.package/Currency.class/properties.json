@@ -5,7 +5,8 @@
 	"classinstvars" : [
 		"convertableCurrencies",
 		"currenciesUpdated",
-		"currencies"
+		"currencies",
+		"currencyCodesAndSymbols"
 	],
 	"pools" : [ ],
 	"classvars" : [ ],
@@ -14,7 +15,9 @@
 		"symbol",
 		"country",
 		"currencyName",
-		"conversionRateToUSD"
+		"conversionRateToUSD",
+		"numericCode",
+		"minorUnit"
 	],
 	"name" : "Currency",
 	"type" : "normal"
