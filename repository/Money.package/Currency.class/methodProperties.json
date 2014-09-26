@@ -26,7 +26,8 @@
 	},
 	"class" : {
 		"getFromCurrencyCode:" : "PaulDeBruicker 4/12/2012 07:58",
-		"populateCurrencyList" : "PaulDeBruicker 3/1/2014 18:40",
+		"httpClient" : "PaulDeBruicker 9/26/2014 07:59",
+		"populateCurrencyList" : "PaulDeBruicker 9/26/2014 07:59",
 		"getFromCountryName:" : "PaulDeBruicker 3/1/2014 18:39",
 		"getFromName:" : "PaulDeBruicker 4/12/2012 07:58",
 		"initialize" : "PaulDeBruicker 4/12/2012 07:59",
@@ -45,7 +46,7 @@
 		"latestPath" : "PaulDeBruicker 11/1/2012 17:55",
 		"latestUrl" : "PaulDeBruicker 11/1/2012 17:57",
 		"localCurrency" : "PaulDeBruicker 4/12/2012 08:41",
-		"setConvertableCurrenciesAndRates" : "PaulDeBruicker 9/4/2013 14:16",
+		"setConvertableCurrenciesAndRates" : "PaulDeBruicker 9/26/2014 07:59",
 		"currenciesUpdated:" : "PaulDeBruicker 10/29/2009 11:40",
 		"swissFranc" : "PaulDeBruicker 3/1/2014 18:46",
 		"usDollar" : "PaulDeBruicker 3/1/2014 18:44",
