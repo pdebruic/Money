@@ -10,7 +10,7 @@ baseline: spec
 			baseline: 'HTTPAPIClient' with: [
 				spec repository: 'filetree:///opt/git/t3'; loads: #('Core' ) ].
 		spec package: 'Money' with: [
-				spec requires: #('JSON' 'HTTP-API-Client' ). ].
+				spec requires: #('JSON' 'HTTPAPIClient' ). ].
 		spec group: 'Core' with: #('Money' ). ].
 
 	spec for: #'squeakCommon' do: [
