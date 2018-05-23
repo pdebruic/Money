@@ -2,7 +2,7 @@ accessing
 populateCurrencyList
 	| currencyXml |
 	[ currencyXml := XMLDOMParser parse: (self httpClient get: self currencyListXmlUrl) contents ]
-		on: NameLookupFailure
+		on: Error
 		do: [ 
 			Transcript show: 'no network connection'.
 			^ self ].
