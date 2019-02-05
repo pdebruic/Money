@@ -1,7 +1,9 @@
 class initialization
 initialize
-	"
+  "
 Currency initialize.
 "
 
-	self updateCurrencies
+  "self updateCurrencies"
+
+  
