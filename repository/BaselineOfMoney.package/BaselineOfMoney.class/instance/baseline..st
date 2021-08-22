@@ -7,9 +7,9 @@ baseline: spec
 				description: 'changed to github'.
 			spec
 				baseline: 'JSON'
-					with: [ spec repository: 'github://pdebruic/JSON' ];
+					with: [ spec repository: 'github://pdebruic/JSON:main/repository' ];
 				baseline: 'HTTPAPIClient'
-					with: [ spec repository: 'github://pdebruic/HTTPAPIClient' ];
+					with: [ spec repository: 'github://pdebruic/HTTPAPIClient:main/repository' ];
 				package: 'Money'
 					with: [ spec requires: #('JSON' 'HTTPAPIClient' 'XMLParser') ].
 			spec group: 'Core' with: #('Money') ].
@@ -27,7 +27,7 @@ baseline: spec
 		do: [ spec
 				baseline: 'XMLParser'
 				with:
-					[ spec repository: 'github://pharo-contributions/XML-XMLParser/src' ] ].
+					[ spec repository: 'github://pharo-contributions/XML-XMLParser:master/src' ] ].
 	spec
 		for: #gemstone
 		do: [ spec
