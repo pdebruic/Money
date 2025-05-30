@@ -1,5 +1,9 @@
 accessing
 populateCurrencyList
+
+"
+self populateCurrencyList
+"
   | currencyXml |
   currencies := OrderedCollection new.
   [ 

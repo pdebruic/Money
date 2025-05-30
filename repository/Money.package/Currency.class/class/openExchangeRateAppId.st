@@ -2,4 +2,4 @@ class initialization
 openExchangeRateAppId
 	"your id goes here"
 
-	^ '43a9dc74b12d492bae83b49aedbecadc'
+	^ '037886fbc0fe4bbe8d216890526c34cc'

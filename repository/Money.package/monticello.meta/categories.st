@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #Money!
+self packageOrganizer ensurePackage: #Money withTags: #()!
