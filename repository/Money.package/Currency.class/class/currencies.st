@@ -1,4 +1,4 @@
 as yet unclassified
 currencies
-	currencies isNil ifTrue:[ self initializeCurrencies ].
-	^currencies 
+	Currencies isNil ifTrue:[ self initializeCurrencies ].
+	^Currencies 

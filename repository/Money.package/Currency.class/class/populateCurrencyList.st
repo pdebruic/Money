@@ -1,7 +1,7 @@
 accessing
 populateCurrencyList
   | currencyXml |
-  currencies := OrderedCollection new.
+  Currencies := OrderedCollection new.
   [ 
   currencyXml := XMLDOMParser
     parse: (self httpClient get: self currencyListXmlUrl) contents ]
@@ -41,4 +41,4 @@ populateCurrencyList
         inInstVar: #'numericCode:'
         of: newCurrency.
       newCurrency setSymbol.
-      currencies add: newCurrency ]
+      Currencies add: newCurrency ]

@@ -2,14 +2,15 @@
 	"commentStamp" : "PaulDeBruicker 11/1/2012 18:10",
 	"super" : "Object",
 	"category" : "Money",
-	"classinstvars" : [
-		"convertableCurrencies",
-		"currenciesUpdated",
-		"currencies",
-		"currencyCodesAndSymbols"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"ConvertableCurrencies",
+		"Currencies",
+		"CurrenciesUpdated",
+		"CurrencyCodesAndSymbols",
+		"LocalCurrency"
+	],
 	"instvars" : [
 		"currency",
 		"symbol",

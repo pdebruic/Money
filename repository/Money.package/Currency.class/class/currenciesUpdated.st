@@ -1,3 +1,3 @@
 accessing
 currenciesUpdated
-	^ currenciesUpdated
+	^ CurrenciesUpdated

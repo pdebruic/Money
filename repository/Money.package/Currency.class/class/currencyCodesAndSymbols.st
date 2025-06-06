@@ -1,5 +1,5 @@
 updating
 currencyCodesAndSymbols
-	currencyCodesAndSymbols isNil
+	CurrencyCodesAndSymbols isNil
 		ifTrue: [ self setCurrencyCodesAndSymbols ].
-	^ currencyCodesAndSymbols
+	^ CurrencyCodesAndSymbols
